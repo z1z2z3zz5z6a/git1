@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:04 +0800] "GET /travel HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:05 +0800] "GET /travel/ HTTP/1.1" 200 139 http-bio-80-exec-3 576
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:05 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-4 0
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:07 +0800] "GET /travel/items/findAll HTTP/1.1" 200 1599 http-bio-80-exec-5 1181
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:07 +0800] "GET /travel/js/jquery-1.4.4.min.js HTTP/1.1" 200 78601 http-bio-80-exec-6 20
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:13 +0800] "GET /travel/items/jumpInsert HTTP/1.1" 200 934 http-bio-80-exec-7 63
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:27 +0800] "POST /travel/items/insertOne HTTP/1.1" 302 - http-bio-80-exec-8 29
+0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:21:27 +0800] "GET /travel/items/findAll HTTP/1.1" 200 1865 http-bio-80-exec-10 5
